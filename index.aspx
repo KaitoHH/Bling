@@ -153,17 +153,13 @@
     <a name="m1"></a>
     <div class="jumbotron screen" style="background-color: #9CF;">
         <div class="container">
-            <div class="row">
-                <div class="col-md-6 stittle">
-                    <h1>Welcome! Bling.</h1>
-                    <p>Bling 源自单词Blink, 是一个自动短句生成器.</p>
-                </div>
-                <div class="col-md-6">
-                    <img src="img/homescreen02.png" class="img-responsive" />
-                </div>
+            <div class="col-md-6 stittle">
+                <h1>Welcome! Bling.</h1>
+                <p>Bling 源自单词Blink, 是一个自动短句生成器.</p>
             </div>
-
-
+            <div class="col-md-6">
+                <img src="img/homescreen02.png" class="img-responsive" />
+            </div>
         </div>
     </div>
 
